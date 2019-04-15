@@ -25,5 +25,23 @@ concentration difference and the flux transfer coefficient as shown in equations
 During transpiration, the water vapor diffuses from the sub-stomatal region to the leaf surface and
 then through convection into the atmosphere and during assimilation CO2 diffuses into the stomata
 from the surrounding air as shown in figure 1a (Schuepp, 1993).
+the two transfer coeffecient:
+The transfer coefficient has two components, namely the diffusive component and the convective
+component. The diffusive component is the biological component known as stomatal conductance
+(gs).The stomatal conductance is controlled by plants also depends on the stomatal shape, size and
+their spatial arrangement (Lehmann & Or, 2015).The total diffusive resistance for the leaf is
+typically computed per total leaf area with n stomata arranged in parallel (stomatal conductance is
+proportional to stomatal density and number of stomata). The leaf boundary layer conductance (gb)
+is the convective component of the transfer coefficient and is physically controlled by the
+environmental forces. It is expressed as a function of characteristic leaf length , leaf to air
+temperature difference and wind velocity (Brenner & Jarvis, 1995). The transfer coefficient (heat
+and mass) is characterized as forced and free based on the forces initiating the convective flux
+transfer within leaf boundary layer. In free convection, the heat and mass flux is driven by the
+buoyant force acting due to the density difference caused by the temperature/concentration
+difference. In forced convection flux transfer is driven by the momentum due to wind velocity. The
+transfer coeffecients (h,gtE , gtA ) is a function of ( T l −T a ) for free convection and wind velocity
+(V) for forced convection (Churchill & Chu, 1975). The total conductance of mass and energy from
+leaf to the atmosphere is estimated by considering the stomatal and boundary layer resistances in
+series (figure 1a) as expressed in equation 4 (Cowan, 1972)
 
 

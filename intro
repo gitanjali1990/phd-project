@@ -44,4 +44,22 @@ transfer coeffecients (h,gtE , gtA ) is a function of ( T l −T a ) for free co
 leaf to the atmosphere is estimated by considering the stomatal and boundary layer resistances in
 series (figure 1a) as expressed in equation 4 (Cowan, 1972)
 
+The stomatal condictance
+The stomatal conductance depends not only on the plant physiological mechanisms, biochemical
+properties but also on the climatic factors, such as received radiation, CO2 concentration, air
+temperature, air humidity and soil moisture (Franks, Berry, Lombardozzi, & Bonan, 2017). In order
+to predict the stomatal conductance three types of models are used: process based model, empirical
+model and optimality based model. The process based model (physiological mechanisms) simulate
+stomatal conductance using two key variables: guard cell volume and tugor pressure. These
+variables are typically predicted from mass balance i.e by assuming that water potential is dictated
+by a steady-state balance between water supply from elsewhere in the leaf or plant and transpiration
+(Buckley, 2017).The empirical model uses a single empirical index that combines the influences of
+three variables (net CO2 assimilation, leaf surface relative humidity and leaf surface CO2 mole
+fraction) (Dougherty, Bradford, Coyne, & Sims, 1994). An alternative approach to predict the
+stomatal conductance is based on the plant economics in terms of maximizing the trade-off
+between carbon gain (assimilation) and water loss (transpiration).The stomatal optimality theory
+hypothesizes that “stomata optimizes to maximize assimilation for a given amount of transpiration
+determined by the soil water availability” (Cowan & Farquhar, 1977). The prediction of optimal
+stomatal conductance in a course of time requires (E) and (A) as a function of stomatal
+conductance (shown in figure 2), which is again function of certain environmental forcing and plant
 

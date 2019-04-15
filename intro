@@ -17,4 +17,13 @@ and air humidity changes with E), 3.Sensible heat and air temperature feedback (
 1b) (sensible heat changes with air temperature and air temperature changes with sensible heat), 4.
 Assimilation and CO2 concentration in air(A) changes with CO2 concentration in air and CO2
 concentration changes with (A).
+The forces and the coeffecient
+The driving force for the exchange of mass and energy from the leaf to air is the concentration(co 2
+&water vapor)and the temperature difference existing between the leaf and its adjacent air layer
+(known as leaf boundary layer). The mass and energy flux are estimated by product of temperature/
+concentration difference and the flux transfer coefficient as shown in equations below (1,2,3).
+During transpiration, the water vapor diffuses from the sub-stomatal region to the leaf surface and
+then through convection into the atmosphere and during assimilation CO2 diffuses into the stomata
+from the surrounding air as shown in figure 1a (Schuepp, 1993).
+
 

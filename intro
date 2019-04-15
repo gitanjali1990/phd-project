@@ -62,4 +62,18 @@ hypothesizes that “stomata optimizes to maximize assimilation for a given amou
 determined by the soil water availability” (Cowan & Farquhar, 1977). The prediction of optimal
 stomatal conductance in a course of time requires (E) and (A) as a function of stomatal
 conductance (shown in figure 2), which is again function of certain environmental forcing and plant
+the aerodynamic conductance
+In general, the aerodynamic conductance ( gb ) is a function of the surface characteristic over
+which the air flows (surface texture, geometry) and air properties (temperature, velocity).However
+the aerodynamic conductances of leaf also includes mobility, distinctive shape and stomata (Daudet,
+Silvestre, Ferreira, Valancogne, & Pradelle, 1998). The ratio of buoyant force to inertial
+force( richardson number) is used to characterize convection regime to estimate the transfer
+coefficient into forced and free. The Richardson number (non-dimensional,semi-empirical) used to
+distinguish between the convection regime is derived experimentally for a dry flat-plate as
+expressed in equation 5 (Raschke, 1960). The magnitude range of Richardson number determines if
+the exchange is due to the density gradient or velocity gradient. Forced convection effects are
+usually insignificant when Ri >> 1 and conversely natural convection effects may be neglected
+when Ri<< 1. When the ratio is of the order of one, combined effects of natural and forced
+convection have to be taken into account
+
 
